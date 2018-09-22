@@ -11,7 +11,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Http;
 
-namespace Eleveight.Web.Controllers.Api.User
+namespace Dev.Web.Controllers.Api.User
 {
     
         [RoutePrefix("api/user/AwardType")]
