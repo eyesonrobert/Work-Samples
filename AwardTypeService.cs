@@ -1,6 +1,6 @@
-﻿using Eleveight.Models.Domain.User;
-using Eleveight.Models.Requests.User;
-using Eleveight.Services.Tools;
+﻿using Dev.Models.Domain.User;
+using Dev.Models.Requests.User;
+using Dev.Services.Tools;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Eleveight.Services.User
+namespace Dev.Services.User
 {
     public class AwardTypeService : BaseService, IAwardTypeService
     {
